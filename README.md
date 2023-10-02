@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently working as an Assistant Professor in the Department of Aerospace Engineering at the Universidad Carlos III de Madrid.
+I will use this space to share the codes generated throughout my research.
 
 <!--
 **dessenag/dessenag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
